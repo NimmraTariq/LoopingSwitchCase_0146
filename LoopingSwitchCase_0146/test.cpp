@@ -29,6 +29,14 @@ int main(){
     cout << "Perulangan while" << endl;
     srand(time(0));
 
+    n = rand() % 10;
+
+    cout << "Nilai awal n = " << n << endl;
+
+    while (n < 7)
+    
+
+
 
 
 }
