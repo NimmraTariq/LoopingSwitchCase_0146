@@ -55,6 +55,8 @@ int main(){
         cout << "Nilai n = " << n << endl;
         n = rand() % 10;
         perulanganDo++;
+
+    } while (n < 7);
     
 
 
