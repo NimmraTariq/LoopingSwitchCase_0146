@@ -23,6 +23,12 @@ int main(){
     {
         cout << "Nilai n = " << n << " Selamat Datang" << endl;
     }
+    cout << "Nilai n terakhir = " << n << endl;
+    cout << endl;
+
+    cout << "Perulangan while" << endl;
+    srand(time(0));
+
 
 
 }
